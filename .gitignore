@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Misc
-/data
+#/data
 .DS_Store
